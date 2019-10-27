@@ -66,7 +66,7 @@ Find all the plugins at [docs.angular-formly.com/page/plugins](http://docs.angul
 
 ## Getting Help
 
-Please don't file an issue unless you feel like you've found a bug or have a feature request. Instead, go to [help.angular-formly.com](http://help.angular-formly.com) and follow the instructions.
+Please don't file an issue unless you feel like you've found a bug or have a feature request. Instead, you can go to [help.angular-formly.com](http://help.angular-formly.com) and follow the instructions.
 
 ## Roadmap
 
